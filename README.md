@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @waqas837 Freelancer having 4+ years of experience..
-- 👀 I’m working in MERN STACK...
-- 💞️ I’m looking to collaboration on with my re ...
-- 📫 How to reach me ...
 
-<!---
-waqas837/waqas837 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Waqas, a Freelancer with over 4+ years of experience.
+
+👀 I specialize in the MERN stack.
+
+💼 I’m seeking collaboration opportunities with other developers and teams.
+
+📫 You can reach me at:
+Email: mwaqas3030@gmail.com
