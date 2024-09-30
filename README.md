@@ -5,5 +5,3 @@
 
 💼 I’m seeking collaboration opportunities with other developers and teams.
 
-📫 You can reach me at:
-Email: mwaqas3030@gmail.com
