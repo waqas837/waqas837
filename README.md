@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Waqas, a Full Stack Developer with over 7+ years of experience.
+👋 Hi, I’m Waqas, a Full Stack Developer with over 6+ years of experience.
 
 👀 I specialize in the NEXT.JS || Fullstack MERN stack web development.
 
